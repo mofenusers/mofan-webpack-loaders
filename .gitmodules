@@ -1,0 +1,3 @@
+[submodule "packages/scoped-deep-import-style-loader"]
+	path = packages/scoped-deep-import-style-loader
+	url = https://github.com/mofenusers/scoped-deep-import-style-loader.git
